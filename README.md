@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这是行吟子游的个人静态主页
 
 You can use the [editor on GitHub](https://github.com/darkaraz/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
